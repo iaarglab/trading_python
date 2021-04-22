@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 21 19:09:59 2021
 
-@author: jmart
+@author: Jorge Martín Vila
 """
 
 import os
